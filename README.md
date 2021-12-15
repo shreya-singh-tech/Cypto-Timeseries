@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-# Cypto-Timeseries
-=======
-# Cypto-Timeseries
->>>>>>> origin/main
+Project to test various models for volatity forecasting using Bitcoin Time series.
